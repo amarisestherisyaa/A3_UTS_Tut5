@@ -20,11 +20,13 @@ Music and lyric videos are mostly created in a static format, a one-way form whe
 Then change the path name in line 7 of the code according to where you store the file
 
 ## Acknowledgement
-- This project is inspired by [Hillsong United's What is Love song and lyric video] (https://www.youtube.com/watch?v=0c7bQ-a6KYI), and [Yao's Unraveled music video] (https://www.youtube.com/watch?v=FLT5_REL0Rk)
-- Start screen code by [John McCaffrey] (https://www.youtube.com/watch?v=JwQ43aBGz0E) 
-- Audio tutorial code by [PoAn (Baron) Chen] (https://poanchen.github.io/blog/2016/11/15/how-to-add-background-music-in-processing-3.0)
-- Ellipse code by [Processing] (https://processing.org/examples/mouse2d.html)
-- Slider button code by [yty and kll from Processing Foundation forum] (https://discourse.processing.org/t/slider-adjust-sound-cp5/15606) 
-- Heart diagram code by [Poly Ed] (http://www.poly-ed.com/source-code/drawing-heart-in-processing/) 
-- Stars code by [James Coffey] (https://www.youtube.com/watch?v=UVXlrBwlp80) 
-- [Raw README.md template] by (https://raw.githubusercontent.com/ritaly/README-cheatsheet/master/README.md)
+- This project is inspired by 
+    - [Hillsong United's What is Love song and lyric video] (https://www.youtube.com/watch?v=0c7bQ-a6KYI)
+    - [Yao's Unraveled music video] (https://www.youtube.com/watch?v=FLT5_REL0Rk)
+- Start screen code by John McCaffrey - https://www.youtube.com/watch?v=JwQ43aBGz0E
+- Audio tutorial code by PoAn (Baron) Chen - https://poanchen.github.io/blog/2016/11/15/how-to-add-background-music-in-processing-3.0
+- Ellipse code by Processing - https://processing.org/examples/mouse2d.html
+- Slider button code by yty and kll from Processing Foundation forum - https://discourse.processing.org/t/slider-adjust-sound-cp5/15606 
+- Heart diagram code by Poly Ed - http://www.poly-ed.com/source-code/drawing-heart-in-processing/ 
+- Stars code by James Coffey - https://www.youtube.com/watch?v=UVXlrBwlp80
+- Raw README.md template  - https://raw.githubusercontent.com/ritaly/README-cheatsheet/master/README.md
