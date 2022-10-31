@@ -17,7 +17,7 @@ Music and lyric videos are mostly created in a static format, a one-way form whe
 - controlP5 2.2.6
 
 ## Launch
-- Download [audio file](https://drive.google.com/file/d/12Ux9n3UhRhtwykMJX2oFR6Fc9l8ut4FC/view?usp=sharing). Then change the path name in line 7 of the code according to where you store the file
+- Download [audio file](https://drive.google.com/file/d/12Ux9n3UhRhtwykMJX2oFR6Fc9l8ut4FC/view?usp=sharing). Then change the path name in line 7 of the code according to where you store the file in your computer. 
 
 ## Project Status
 - Project is almost complete
