@@ -51,7 +51,7 @@ void draw () {
     background(0);
     fill(255);
     textSize(10);
-    text("You can:\n 1. Hover your mouse around to change the size of the circles\n 2. Press l-o-v-e on your keyboard\n 3. Press any other keys on your keyboard\n Enjoy!", 350, 20);
+    text("You can:\n 1. Hover your mouse around to change the size and position of the circles\n 2. Press l-o-v-e on your keyboard\n 3. Press any other keys on your keyboard\n Enjoy!", 350, 20);
     
    // Create moving circles
     fill(255, 140, 0);
